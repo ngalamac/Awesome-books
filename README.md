@@ -105,6 +105,12 @@ You can deploy this project using:
 - LinkedIn: [Ngala Mac](https://www.linkedin.com/in/ngala-mac-872a65220/)
 
 
+👤 **Hydaline**
+
+- GitHub: [https://github.com/hydaline-code]
+- Twitter: [https://twitter.com/hydalineC]
+- LinkedIn: [https://www.linkedin.com/in/charlene-djoungang-0851aa21a/]
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 - A desktop responsive portfolio website
