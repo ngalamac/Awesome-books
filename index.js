@@ -1,5 +1,3 @@
-/* eslint-disable no-use-before-define */
-/* eslint-disable no-restricted-syntax */
 document.addEventListener('DOMContentLoaded', loadBooks);
 
 document.getElementById('booksform').addEventListener('submit', (e) => {
